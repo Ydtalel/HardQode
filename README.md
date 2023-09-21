@@ -1,3 +1,6 @@
+[Ссылка на образ в Docker Hub](https://hub.docker.com/r/ydtalel/hq-django-app)
+
+
 [Проект на pythonanywhere](http://ydtalel.pythonanywhere.com/admin/)  
 ввести login: user1  
 password: 1qazxsw21q  
