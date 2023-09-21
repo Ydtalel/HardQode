@@ -1,3 +1,16 @@
+[Проект на pythonanywhere](http://ydtalel.pythonanywhere.com/admin/)
+ввести login: user1  
+password: 1qazxsw21q  
+Далее использовать API маршруты
+```
+http://ydtalel.pythonanywhere.com/api/lessons/list/
+```
+```
+http://ydtalel.pythonanywhere.com/api/lessons/product/2/
+````
+```
+http://ydtalel.pythonanywhere.com/api/product/stats/
+```
 
 ## Установка:
 
@@ -7,7 +20,7 @@
 ```
 http://localhost:8000/admin/
 ```
-login: user1
+login: user1  
 password: 1qazxsw21q
 # запросы через API
 Можно использовать готовую коллекцию postman HQ collection.postman_collection.json  
