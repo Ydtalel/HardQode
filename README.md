@@ -1,4 +1,4 @@
-[Проект на pythonanywhere](http://ydtalel.pythonanywhere.com/admin/)
+[Проект на pythonanywhere](http://ydtalel.pythonanywhere.com/admin/)  
 ввести login: user1  
 password: 1qazxsw21q  
 Далее использовать API маршруты
