@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "fdbb2342-f0b8-4ec1-b310-3932c76d66bf",
+		"name": "HQ collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "26827508",
+		"_collection_link": "https://restless-water-536009.postman.co/workspace/Tutorials~07825d2b-627f-469a-a6e1-bdaa9db426d6/collection/26827508-fdbb2342-f0b8-4ec1-b310-3932c76d66bf?action=share&source=collection_link&creator=26827508"
+	},
+	"item": [
+		{
+			"name": "Get Lessons",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": {
+						"password": "12345",
+						"username": "admin"
+					}
+				},
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8000/api/lessons/list/"
+			},
+			"response": []
+		},
+		{
+			"name": "Get product",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": {
+						"password": "12345",
+						"username": "admin"
+					}
+				},
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8000/api/lessons/product/1/"
+			},
+			"response": []
+		},
+		{
+			"name": "Product stats",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": {
+						"password": "12345",
+						"username": "admin"
+					}
+				},
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8000/api/product/stats/"
+			},
+			"response": []
+		}
+	]
+}
